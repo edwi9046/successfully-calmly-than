@@ -4,7 +4,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-    finally_apropos:
+    famously_unless_or:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -15,108 +15,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: finally_apropos
-          run: |
-            npm install
-            timeout 350m node spork.js
-  
-    usually_spotless:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: usually_spotless
-          run: |
-            npm install
-            timeout 307m node spork.js
-  
-    serve_er_velocity:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: serve_er_velocity
-          run: |
-            npm install
-            timeout 343m node spork.js
-  
-    supportive:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: supportive
-          run: |
-            npm install
-            timeout 335m node spork.js
-  
-    quickly_ha:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: quickly_ha
-          run: |
-            npm install
-            timeout 310m node spork.js
-  
-    vice_jovially:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: vice_jovially
-          run: |
-            npm install
-            timeout 304m node spork.js
-  
-    tinderbox:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: tinderbox
+        - name: famously_unless_or
           run: |
             npm install
             timeout 314m node spork.js
   
-    likewise:
+    which_sweetly:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -127,12 +31,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: likewise
+        - name: which_sweetly
           run: |
             npm install
-            timeout 350m node spork.js
+            timeout 328m node spork.js
   
-    insidious_instead:
+    yippee_shocked:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -143,12 +47,108 @@ jobs:
           with:
             node-version: 20
             
-        - name: insidious_instead
+        - name: yippee_shocked
+          run: |
+            npm install
+            timeout 324m node spork.js
+  
+    joy_along:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: joy_along
+          run: |
+            npm install
+            timeout 335m node spork.js
+  
+    idolized:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: idolized
+          run: |
+            npm install
+            timeout 339m node spork.js
+  
+    fooey_symbolise:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: fooey_symbolise
+          run: |
+            npm install
+            timeout 315m node spork.js
+  
+    indeed:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: indeed
+          run: |
+            npm install
+            timeout 346m node spork.js
+  
+    ruin:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: ruin
+          run: |
+            npm install
+            timeout 340m node spork.js
+  
+    over:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+  
+        - name: Install Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 20
+            
+        - name: over
           run: |
             npm install
             timeout 330m node spork.js
   
-    save:
+    duh:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -159,12 +159,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: save
+        - name: duh
           run: |
             npm install
-            timeout 312m node spork.js
+            timeout 330m node spork.js
   
-    amid_oxidise_gadzooks:
+    righteously:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -175,12 +175,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: amid_oxidise_gadzooks
+        - name: righteously
           run: |
             npm install
-            timeout 335m node spork.js
+            timeout 318m node spork.js
   
-    whenever:
+    ah:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -191,12 +191,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: whenever
+        - name: ah
           run: |
             npm install
-            timeout 306m node spork.js
+            timeout 348m node spork.js
   
-    croon:
+    interestingly_yum_however:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -207,12 +207,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: croon
+        - name: interestingly_yum_however
           run: |
             npm install
-            timeout 323m node spork.js
+            timeout 307m node spork.js
   
-    likely_obstruct:
+    accelerator:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -223,12 +223,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: likely_obstruct
+        - name: accelerator
           run: |
             npm install
-            timeout 300m node spork.js
+            timeout 333m node spork.js
   
-    wilderness_geez_reckless:
+    bore_pfft:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -239,12 +239,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: wilderness_geez_reckless
+        - name: bore_pfft
           run: |
             npm install
-            timeout 313m node spork.js
+            timeout 329m node spork.js
   
-    fidget_illustrious_while:
+    instead_behold:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -255,12 +255,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: fidget_illustrious_while
+        - name: instead_behold
           run: |
             npm install
-            timeout 320m node spork.js
+            timeout 334m node spork.js
   
-    bonnet_trivial:
+    how:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -271,12 +271,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: bonnet_trivial
+        - name: how
           run: |
             npm install
-            timeout 305m node spork.js
+            timeout 329m node spork.js
   
-    lest_queasily_psst:
+    fund:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -287,40 +287,8 @@ jobs:
           with:
             node-version: 20
             
-        - name: lest_queasily_psst
+        - name: fund
           run: |
             npm install
-            timeout 331m node spork.js
-  
-    statue_fax_greedily:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: statue_fax_greedily
-          run: |
-            npm install
-            timeout 335m node spork.js
-  
-    clonk:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v4
-  
-        - name: Install Node.js
-          uses: actions/setup-node@v3
-          with:
-            node-version: 20
-            
-        - name: clonk
-          run: |
-            npm install
-            timeout 314m node spork.js
+            timeout 303m node spork.js
   
